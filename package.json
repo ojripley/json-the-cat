@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ojripley/json-the-cat/issues"
   },
-  "homepage": "https://github.com/ojripley/json-the-cat#readme"
+  "homepage": "https://github.com/ojripley/json-the-cat#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
